@@ -1,0 +1,11 @@
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\dialect\Dialect.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\mybatis\interceptor\AbstractInterceptor.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\dialect\MySqlDialect.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\service\BaseServiceImpl.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\biz\BaseBizImpl.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\facade\BaseFacade.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\service\BaseService.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\dao\BaseDaoImpl.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\dao\BaseDao.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\biz\BaseBiz.java
+D:\workspace_dubbo\cop-common-core\src\main\java\com\cooperay\common\core\mybatis\interceptor\ExecutorInterceptor.java
